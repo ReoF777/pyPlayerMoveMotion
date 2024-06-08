@@ -6,6 +6,7 @@ pyPlayerMoveMotionはPythonで作成されたシンプルなプレイヤー操�
 
 1. Pythonをインストールします。
 2. pygameライブラリをインストールします。
+
    
     ```
     pip install pygame
